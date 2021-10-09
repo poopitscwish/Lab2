@@ -1,0 +1,96 @@
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\sheny\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Menu.resources
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+G:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csprojAssemblyReference.cache
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Menu.resources
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+G:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+E:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Menu.resources
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+E:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Menu.resources
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+D:\тех. программ\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form3.resources
+F:\тех. программ\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form3.resources
